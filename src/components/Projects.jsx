@@ -21,10 +21,10 @@ export default function Projects() {
     {
       title: "Portfolio Website",
       desc: "A developer portfolio template with glassmorphism, smooth scrolling, and animated transitions.",
-      image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      tech: ["React", "Tailwind CSS"],
-      demo: "#",
-      github: "#"
+      image: "/image/Portfolio.png",
+      tech: ["React","javaScript","Tailwind CSS"],
+      demo: "https://portfolio-roshankumar.vercel.app/",
+      github: "https://github.com/Rkc0310/Portfolio"
     },
    
   ];
